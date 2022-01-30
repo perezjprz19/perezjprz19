@@ -39,7 +39,7 @@
 - 👩‍🎓 I'm currently working on my AAB in Business Management with a focus in Programming and Development 
 - 😅 I'm currently learning everything 
 - 🖥️ I'm looking to start a career in web development 
-- 📖 Fun fact: I love to read Fantasy and Detective Stories 
+- 📖 Fun fact: I ❤️ to read Fantasy and Detective Stories 
 
 </div>
 
