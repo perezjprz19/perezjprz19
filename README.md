@@ -34,10 +34,9 @@
 
   #### About Me
 
-- 👩‍🎓 I'm currently working on my AAB in Business Management with a focus in Programming and Development 
+- 👩‍🎓 I'm graduated with my AAB in Business Management with a focus in Programming and Development 
 - 😅 I'm currently learning everything 
-- 🖥️ I'm looking to start a career in web development 
-- 📖 Fun fact: I ❤️ to read Fantasy and Detective Stories 
+- 🖥️ I'm looking to start a career in web development- 📖 Fun fact: I ❤️ to read Fantasy and Detective Stories 
 
 </div>
 
